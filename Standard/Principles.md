@@ -14,7 +14,7 @@ One spec folder per feature or bugfix. Never a single giant specification docume
 
 ## 3. The Constitution Is Not a Spec
 
-The [[Steering Template|steering document]] (e.g., `CLAUDE.md`) defines project identity — tech stack, conventions, boundaries. Feature specs define what to build. These are distinct concerns:
+The [[Business/Documentation & Research/Spec driven development/Templates/Steering Template|steering document]] (e.g., `CLAUDE.md`) defines project identity — tech stack, conventions, boundaries. Feature specs define what to build. These are distinct concerns:
 
 - **Steering document**: "We use TypeScript, follow these naming conventions, never modify production configs."
 - **Feature spec**: "Build a password reset flow that sends an email with a time-limited token."
@@ -31,7 +31,7 @@ Specs are Markdown files. They work with Claude Code, Cursor, Copilot, Kiro, Win
 
 ## 6. Incremental Adoption
 
-You don't need to adopt the full standard on day one. Start with a steering document. Add feature specs when complexity warrants it. Introduce the Product Brief when PO/PM collaboration becomes important. The standard is designed to be adopted in layers. See [[Adoption Guide]].
+You don't need to adopt the full standard on day one. Start with a steering document. Add feature specs when complexity warrants it. Introduce the Product Brief when PO/PM collaboration becomes important. The standard is designed to be adopted in layers. See [[Business/Documentation & Research/Spec driven development/Standard/Adoption Guide]].
 
 ## 7. Living Documents
 
@@ -47,4 +47,4 @@ Implementation is checked against the spec, not against intuition. Acceptance cr
 
 ## 10. Product Intent Drives Specs
 
-The PO/PM owns the *why* and the *what*. Specs are the bridge between product vision and implementation. A well-written spec serves two audiences simultaneously: human developers who need context and rationale, and AI agents who need precision and explicit boundaries. See [[Roles]].
+The PO/PM owns the *why* and the *what*. Specs are the bridge between product vision and implementation. A well-written spec serves two audiences simultaneously: human developers who need context and rationale, and AI agents who need precision and explicit boundaries. See [[Business/Documentation & Research/Spec driven development/Standard/Roles]].

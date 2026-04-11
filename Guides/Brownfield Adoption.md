@@ -25,7 +25,7 @@ Pick a feature that's:
 - **Upcoming** — something you're about to build, not something already built
 - **Self-contained** — minimal dependencies on other in-progress work
 
-Create `specs/[feature-name]/` and write requirements, design, and tasks. See [[Getting Started]] for the step-by-step.
+Create `specs/[feature-name]/` and write requirements, design, and tasks. See [[Business/Documentation & Research/Spec driven development/Guides/Getting Started]] for the step-by-step.
 
 ### Ongoing: Build the Habit
 

@@ -68,7 +68,7 @@ If you use multiple tools on the same project:
 - Symlink or copy for tools that require a specific filename
 - Or maintain parallel files with the same content (less ideal, but works)
 
-The content structure remains identical regardless of filename. See [[Steering Template]].
+The content structure remains identical regardless of filename. See [[Business/Documentation & Research/Spec driven development/Templates/Steering Template]].
 
 ---
 

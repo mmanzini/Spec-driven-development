@@ -61,4 +61,4 @@ artifact: product-brief
 
 ---
 
-> [!tip] **Next step:** Once this brief is reviewed by the Dev team, expand it into a formal `requirements.md` using the [[Feature Spec Template]]. Delete all `> [!tip]` callouts when you're done filling in the template.
+> [!tip] **Next step:** Once this brief is reviewed by the Dev team, expand it into a formal `requirements.md` using the [[Business/Documentation & Research/Spec driven development/Templates/Feature Spec Template]]. Delete all `> [!tip]` callouts when you're done filling in the template.

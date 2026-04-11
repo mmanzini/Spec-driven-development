@@ -8,7 +8,7 @@ Precise definitions of terms used throughout the SDD Standard. When a term appea
 |------|-----------|
 | **Acceptance Criteria** | Testable conditions that must be true for a requirement to be considered met. Written so that both a human and an AI agent can verify them unambiguously. |
 | **AI Agent** | An AI-powered coding assistant (e.g., Claude Code, Cursor, Copilot, Kiro) that executes implementation tasks within the boundaries defined by specs and the steering document. |
-| **Boundary** | An explicit constraint on what the AI agent or developer must always do, must ask about, or must never do. See [[Boundaries]]. |
+| **Boundary** | An explicit constraint on what the AI agent or developer must always do, must ask about, or must never do. See [[Business/Documentation & Research/Spec driven development/Standard/Boundaries]]. |
 | **Brief** | See *Product Brief*. |
 | **Brownfield** | An existing codebase where SDD is being adopted. Contrast with *Greenfield*. |
 | **Constitution** | See *Steering Document*. |

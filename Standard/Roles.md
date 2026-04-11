@@ -9,7 +9,7 @@ SDD defines three actors with distinct responsibilities. Clear ownership prevent
 The PO/PM is the voice of the user and the business. They own the *why* and the *what*.
 
 **Responsibilities:**
-- Write the [[Product Brief Template|Product Brief]] — the starting artifact that captures problem, need, and success metrics
+- Write the [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template|Product Brief]] — the starting artifact that captures problem, need, and success metrics
 - Author and approve requirements in `requirements.md`
 - Define acceptance criteria that are testable by both humans and AI agents
 - Review design documents for alignment with product intent (not technical correctness)
@@ -45,7 +45,7 @@ The Developer owns the *how*. They translate requirements into architecture and 
 - Write the design document (`design.md`) — architecture, components, data models, API contracts
 - Break the design into atomic tasks (`tasks.md`)
 - Review AI-generated code for quality, correctness, and adherence to standards
-- Maintain the [[Steering Template|steering document]] with project-wide conventions
+- Maintain the [[Business/Documentation & Research/Spec driven development/Templates/Steering Template|steering document]] with project-wide conventions
 - Validate technical quality during the Validate phase
 
 **Phase ownership:**
@@ -68,7 +68,7 @@ The AI agent is a powerful executor that works within boundaries. It does not ma
 **Responsibilities:**
 - Read the full spec context (steering document + spec folder) before starting work
 - Execute tasks in the order defined in `tasks.md`
-- Follow the [[Boundaries|Always/Ask/Never]] framework strictly
+- Follow the [[Business/Documentation & Research/Spec driven development/Standard/Boundaries|Always/Ask/Never]] framework strictly
 - Flag ambiguity or contradictions rather than guessing
 - Produce code that is reviewable in small, task-sized increments
 

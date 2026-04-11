@@ -1,6 +1,6 @@
 # Notification Preferences — Tasks
 
-**Spec:** [[requirements]] | [[design]]
+**Spec:** [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/requirements]] | [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/design]]
 **Status:** Not started
 
 ### 1. Create notification preferences database migration

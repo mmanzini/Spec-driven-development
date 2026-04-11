@@ -18,9 +18,9 @@ Examples/notification-preferences/
 ```
 
 **Files:**
-- [[brief|brief.md]] — Product Brief capturing user problem, success metrics, scope
-- [[requirements|requirements.md]] — 5 requirements using mixed notation (user stories + EARS), with acceptance criteria and boundaries
-- [[design|design.md]] — Component architecture, data model, API contracts, error handling
+- [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/brief|brief.md]] — Product Brief capturing user problem, success metrics, scope
+- [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/requirements|requirements.md]] — 5 requirements using mixed notation (user stories + EARS), with acceptance criteria and boundaries
+- [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/design|design.md]] — Component architecture, data model, API contracts, error handling
 - [[Business Projects/Spec driven development/Examples/notification-preferences/tasks|tasks.md]] — 7 ordered tasks with dependencies and requirement traceability
 
 ---
@@ -37,7 +37,7 @@ Examples/duplicate-order-emails/
 ```
 
 **Files:**
-- [[bugfix|bugfix.md]] — Bug summary, reproduction steps, root cause analysis, proposed fix, boundaries
+- [[Business/Documentation & Research/Spec driven development/Examples/duplicate-order-emails/bugfix|bugfix.md]] — Bug summary, reproduction steps, root cause analysis, proposed fix, boundaries
 - [[Business Projects/Spec driven development/Examples/duplicate-order-emails/tasks|tasks.md]] — 4 tasks: reproduce, fix backend, fix UI, verify regressions
 
 ---

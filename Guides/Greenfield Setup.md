@@ -8,7 +8,7 @@ How to start a new project with SDD from day one.
 
 ### 1. Create the Steering Document
 
-Before writing any code, create your steering document. Use the [[Steering Template]].
+Before writing any code, create your steering document. Use the [[Business/Documentation & Research/Spec driven development/Templates/Steering Template]].
 
 For a new project, focus on:
 - **Project overview** — What you're building and why

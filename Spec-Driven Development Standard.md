@@ -10,12 +10,12 @@ SDD bridges the gap between product vision and implementation. It gives Product 
 
 ## The Standard
 
-- [[Principles]] — The core beliefs that drive SDD
-- [[Workflow]] — The 6-phase lifecycle from brief to validation
-- [[Roles]] — PO/PM, Developer, and AI Agent responsibilities
-- [[Anatomy of a Spec]] — What makes a good spec
-- [[Boundaries]] — The Always/Ask/Never framework
-- [[Glossary]] — Precise definitions of SDD terms
+- [[Business/Documentation & Research/Spec driven development/Standard/Principles]] — The core beliefs that drive SDD
+- [[Business/Documentation & Research/Spec driven development/Standard/Workflow]] — The 6-phase lifecycle from brief to validation
+- [[Business/Documentation & Research/Spec driven development/Standard/Roles]] — PO/PM, Developer, and AI Agent responsibilities
+- [[Business/Documentation & Research/Spec driven development/Standard/Anatomy of a Spec]] — What makes a good spec
+- [[Business/Documentation & Research/Spec driven development/Standard/Boundaries]] — The Always/Ask/Never framework
+- [[Business/Documentation & Research/Spec driven development/Standard/Glossary]] — Precise definitions of SDD terms
 
 ---
 
@@ -23,40 +23,40 @@ SDD bridges the gap between product vision and implementation. It gives Product 
 
 Copy these into your project to get started:
 
-- [[Product Brief Template]] — PO/PM starting point before spec creation
-- [[Steering Template]] — Project constitution (CLAUDE.md / .cursorrules)
-- [[Feature Spec Template]] — New feature specifications
-- [[Bugfix Spec Template]] — Bug investigation and fix specifications
-- [[Standards Template]] — Project-wide coding conventions
-- [[Task List Template]] — Implementation task breakdowns
+- [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template]] — PO/PM starting point before spec creation
+- [[Business/Documentation & Research/Spec driven development/Templates/Steering Template]] — Project constitution (CLAUDE.md / .cursorrules)
+- [[Business/Documentation & Research/Spec driven development/Templates/Feature Spec Template]] — New feature specifications
+- [[Business/Documentation & Research/Spec driven development/Templates/Bugfix Spec Template]] — Bug investigation and fix specifications
+- [[Business/Documentation & Research/Spec driven development/Templates/Standards Template]] — Project-wide coding conventions
+- [[Business/Documentation & Research/Spec driven development/Templates/Task List Template]] — Implementation task breakdowns
 
 ---
 
 ## Guides
 
-- [[Getting Started]] — 5-minute minimal setup
-- [[PO Guide to SDD]] — How Product Owners write specs for dev teams and AI
-- [[From Story to Spec]] — Translating product vision into SDD artifacts
-- [[Writing Requirements]] — Requirements notation guide (multi-format)
-- [[Writing Design Docs]] — Design document guide
-- [[Breaking Down Tasks]] — Task decomposition guide
-- [[Spec Review Checklist]] — Validation checklist
-- [[Brownfield Adoption]] — Adopting SDD in an existing codebase
-- [[Greenfield Setup]] — Starting a new project with SDD
+- [[Business/Documentation & Research/Spec driven development/Guides/Getting Started]] — 5-minute minimal setup
+- [[Business/Documentation & Research/Spec driven development/Guides/PO Guide to SDD]] — How Product Owners write specs for dev teams and AI
+- [[Business/Documentation & Research/Spec driven development/Guides/From Story to Spec]] — Translating product vision into SDD artifacts
+- [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]] — Requirements notation guide (multi-format)
+- [[Business/Documentation & Research/Spec driven development/Guides/Writing Design Docs]] — Design document guide
+- [[Business/Documentation & Research/Spec driven development/Guides/Breaking Down Tasks]] — Task decomposition guide
+- [[Business/Documentation & Research/Spec driven development/Guides/Spec Review Checklist]] — Validation checklist
+- [[Business/Documentation & Research/Spec driven development/Guides/Brownfield Adoption]] — Adopting SDD in an existing codebase
+- [[Business/Documentation & Research/Spec driven development/Guides/Greenfield Setup]] — Starting a new project with SDD
 
 ---
 
 ## Examples
 
-Each example uses the exact folder and file structure prescribed by the standard. See [[Examples]] for the full overview.
+Each example uses the exact folder and file structure prescribed by the standard. See [[Business/Documentation & Research/Spec driven development/Examples/Examples]] for the full overview.
 
-- **Feature Spec:** `Examples/notification-preferences/` — [[brief|brief]] → [[requirements|requirements]] → [[design|design]] → [[Business Projects/Spec driven development/Examples/notification-preferences/tasks|tasks]]
-- **Bugfix Spec:** `Examples/duplicate-order-emails/` — [[bugfix|bugfix]] → [[Business Projects/Spec driven development/Examples/duplicate-order-emails/tasks|tasks]]
+- **Feature Spec:** `Examples/notification-preferences/` — [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/brief|brief]] → [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/requirements|requirements]] → [[Business/Documentation & Research/Spec driven development/Examples/notification-preferences/design|design]] → [[Business Projects/Spec driven development/Examples/notification-preferences/tasks|tasks]]
+- **Bugfix Spec:** `Examples/duplicate-order-emails/` — [[Business/Documentation & Research/Spec driven development/Examples/duplicate-order-emails/bugfix|bugfix]] → [[Business Projects/Spec driven development/Examples/duplicate-order-emails/tasks|tasks]]
 - **Steering Doc:** `Examples/taskflow-steering/` — [[Business Projects/Spec driven development/Examples/taskflow-steering/CLAUDE|CLAUDE.md]]
 
 ---
 
 ## Adoption
 
-- [[Adoption Guide]] — How to adopt SDD incrementally
-- [[Tool Agnosticism]] — How SDD works across Claude, Cursor, Copilot, Kiro, and more
+- [[Business/Documentation & Research/Spec driven development/Standard/Adoption Guide]] — How to adopt SDD incrementally
+- [[Business/Documentation & Research/Spec driven development/Standard/Tool Agnosticism]] — How SDD works across Claude, Cursor, Copilot, Kiro, and more

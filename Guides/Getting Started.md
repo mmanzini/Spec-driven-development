@@ -6,7 +6,7 @@ Adopt SDD in 5 minutes. This guide gives you the minimal viable setup — you ca
 
 ## Step 1: Create Your Steering Document (2 minutes)
 
-Copy the [[Steering Template]] to your project root. Name it based on your AI tool:
+Copy the [[Business/Documentation & Research/Spec driven development/Templates/Steering Template]] to your project root. Name it based on your AI tool:
 
 | Tool | Filename |
 |------|----------|
@@ -36,8 +36,8 @@ That's it. The folder is empty until you need your first spec.
 When you have a feature that's complex enough to benefit from planning:
 
 1. Create a folder: `specs/[feature-name]/`
-2. **(PO/PM)** Write a `brief.md` using the [[Product Brief Template]] — or skip this and go directly to requirements
-3. **(PO/PM + Dev)** Write `requirements.md` using the [[Feature Spec Template]]
+2. **(PO/PM)** Write a `brief.md` using the [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template]] — or skip this and go directly to requirements
+3. **(PO/PM + Dev)** Write `requirements.md` using the [[Business/Documentation & Research/Spec driven development/Templates/Feature Spec Template]]
 4. **(Dev)** Write `design.md`
 5. **(Dev)** Write `tasks.md`
 6. **(AI + Dev)** Execute tasks
@@ -60,8 +60,8 @@ SDD is designed for incremental adoption. Here's what's optional:
 
 ## Next Steps
 
-- [[PO Guide to SDD]] — If you're a Product Owner or Product Manager
-- [[Writing Requirements]] — How to write requirements in different notations
-- [[Brownfield Adoption]] — If you're adding SDD to an existing codebase
-- [[Greenfield Setup]] — If you're starting a new project from scratch
-- [[Adoption Guide]] — The full incremental adoption path
+- [[Business/Documentation & Research/Spec driven development/Guides/PO Guide to SDD]] — If you're a Product Owner or Product Manager
+- [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]] — How to write requirements in different notations
+- [[Business/Documentation & Research/Spec driven development/Guides/Brownfield Adoption]] — If you're adding SDD to an existing codebase
+- [[Business/Documentation & Research/Spec driven development/Guides/Greenfield Setup]] — If you're starting a new project from scratch
+- [[Business/Documentation & Research/Spec driven development/Standard/Adoption Guide]] — The full incremental adoption path

@@ -12,7 +12,7 @@ artifact: task-list
 
 # [Feature/Bugfix Name] — Tasks
 
-**Spec:** [[requirements]] | [[design]]
+**Spec:** [[Business/Plugins/SpecOps/specops/templates/requirements]] | [[Business/Plugins/SpecOps/specops/templates/design]]
 **Status:** Not started | In progress | Complete
 
 ## Task List

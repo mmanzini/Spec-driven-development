@@ -19,7 +19,7 @@ The good news: writing for AI makes you a better writer for humans too. Vague sp
 
 ### Product Brief (`brief.md`)
 
-Your starting point. Captures the problem, not the solution. Use the [[Product Brief Template]].
+Your starting point. Captures the problem, not the solution. Use the [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template]].
 
 **When to write one:**
 - The feature involves multiple people (PO + Dev, or PO + Dev + AI)
@@ -32,7 +32,7 @@ Your starting point. Captures the problem, not the solution. Use the [[Product B
 
 ### Requirements (`requirements.md`)
 
-Your main deliverable. Structured requirements with acceptance criteria. Use the requirements section of the [[Feature Spec Template]].
+Your main deliverable. Structured requirements with acceptance criteria. Use the requirements section of the [[Business/Documentation & Research/Spec driven development/Templates/Feature Spec Template]].
 
 ### Acceptance Criteria
 
@@ -73,7 +73,7 @@ Write the *why* and *context* for humans. Write the *what* and *criteria* for AI
 
 ## Your Review Gates
 
-You have three review moments in the SDD [[Workflow]]:
+You have three review moments in the SDD [[Business/Documentation & Research/Spec driven development/Standard/Workflow]]:
 
 ### 1. After Brief → Before Specify
 
@@ -117,7 +117,7 @@ If something's off, update the spec and create new tasks — don't just verbally
 
 ## Choosing a Notation
 
-See [[Writing Requirements]] for full details. Quick guidance:
+See [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]] for full details. Quick guidance:
 
 | Notation | Best for | Example |
 |----------|----------|---------|
@@ -132,10 +132,10 @@ You can mix notations in a single spec. Use whichever is clearest for each requi
 
 ## Quick Reference
 
-1. Start with a [[Product Brief Template|Product Brief]] (problem, need, metrics, scope)
-2. Expand into [[Feature Spec Template|requirements]] with acceptance criteria
+1. Start with a [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template|Product Brief]] (problem, need, metrics, scope)
+2. Expand into [[Business/Documentation & Research/Spec driven development/Templates/Feature Spec Template|requirements]] with acceptance criteria
 3. Review the design for alignment with intent
 4. Validate the implementation against your criteria
 5. Update the spec if reality changed your understanding
 
-See [[From Story to Spec]] for a step-by-step worked example.
+See [[Business/Documentation & Research/Spec driven development/Guides/From Story to Spec]] for a step-by-step worked example.

@@ -28,7 +28,7 @@ If you can't answer these clearly in conversation, you're not ready to write a s
 
 ## Step 2: Write the Product Brief
 
-Use the [[Product Brief Template]]. Capture:
+Use the [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template]]. Capture:
 - The problem and who it affects
 - What success looks like
 - What's in scope and what's out

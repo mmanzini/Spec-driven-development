@@ -141,4 +141,4 @@ For every requirement, verify:
 
 ## For PO/PMs
 
-See [[PO Guide to SDD]] for guidance on choosing notations and common anti-patterns. See [[From Story to Spec]] for a complete worked example.
+See [[Business/Documentation & Research/Spec driven development/Guides/PO Guide to SDD]] for guidance on choosing notations and common anti-patterns. See [[Business/Documentation & Research/Spec driven development/Guides/From Story to Spec]] for a complete worked example.

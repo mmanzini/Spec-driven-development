@@ -1,6 +1,6 @@
 # Spec Review Checklist
 
-Use this checklist to validate a spec before moving to implementation. Review at each phase gate in the [[Workflow]].
+Use this checklist to validate a spec before moving to implementation. Review at each phase gate in the [[Business/Documentation & Research/Spec driven development/Standard/Workflow]].
 
 ---
 

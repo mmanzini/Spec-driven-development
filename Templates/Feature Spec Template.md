@@ -6,7 +6,7 @@ artifact: feature-spec
 
 # Feature Spec Template
 
-> [!info] This template covers all three core spec files for a feature. Create a folder at `specs/[feature-name]/` and split this into separate files: `requirements.md`, `design.md`, and `tasks.md`. Optionally start with a `brief.md` using the [[Product Brief Template]].
+> [!info] This template covers all three core spec files for a feature. Create a folder at `specs/[feature-name]/` and split this into separate files: `requirements.md`, `design.md`, and `tasks.md`. Optionally start with a `brief.md` using the [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template]].
 
 ---
 
@@ -20,7 +20,7 @@ artifact: feature-spec
 
 ## Requirements
 
-> [!tip] Choose the notation that fits each requirement. You can mix notations within a single spec. See [[Writing Requirements]] for guidance on when to use each format.
+> [!tip] Choose the notation that fits each requirement. You can mix notations within a single spec. See [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]] for guidance on when to use each format.
 
 ### User Stories
 
@@ -135,4 +135,4 @@ THEN THE SYSTEM SHALL [behavior]
 
 ---
 
-> [!tip] Delete all `> [!tip]` callouts and replace all `[BRACKETS]` with your actual content. See [[Anatomy of a Spec]] for quality guidelines.
+> [!tip] Delete all `> [!tip]` callouts and replace all `[BRACKETS]` with your actual content. See [[Business/Documentation & Research/Spec driven development/Standard/Anatomy of a Spec]] for quality guidelines.

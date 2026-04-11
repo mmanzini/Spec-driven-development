@@ -82,7 +82,7 @@ Design documents are one of the most important context sources for AI agents dur
 
 ## Design Size
 
-Follow the [[Principles|smarter specs, not longer specs]] principle:
+Follow the [[Business/Documentation & Research/Spec driven development/Standard/Principles|smarter specs, not longer specs]] principle:
 - A typical design document is 1-2 pages
 - If it exceeds 3 pages, consider splitting the feature
 - Focus on decisions and interfaces, not implementation details (those belong in the code)

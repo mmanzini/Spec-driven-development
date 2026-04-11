@@ -49,7 +49,7 @@ A well-sized task is roughly **one commit**. If describing the task takes more t
 
 ## Task Format
 
-Use the [[Task List Template]] format:
+Use the [[Business/Documentation & Research/Spec driven development/Templates/Task List Template]] format:
 
 ```markdown
 ### 1. Create password reset token table

@@ -29,7 +29,7 @@ A good objective is:
 **Where:** `requirements.md`
 **Owner:** PO/PM (content) + Developer (feasibility)
 
-Structured statements of what the system should do. See [[Writing Requirements]] for notation options.
+Structured statements of what the system should do. See [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]] for notation options.
 
 A good requirement is:
 - **Testable** — you can write a pass/fail check for it
@@ -57,7 +57,7 @@ A good design:
 **Where:** Spread across `requirements.md` (feature-specific) and the steering document (project-wide)
 **Owner:** PO/PM (product constraints) + Developer (technical constraints)
 
-What the implementation must do, must ask about, and must never do. See [[Boundaries]] for the Always/Ask/Never framework.
+What the implementation must do, must ask about, and must never do. See [[Business/Documentation & Research/Spec driven development/Standard/Boundaries]] for the Always/Ask/Never framework.
 
 Constraints include:
 - Performance requirements
@@ -71,7 +71,7 @@ Constraints include:
 **Where:** `tasks.md`
 **Owner:** Developer (+ AI Agent as assistant)
 
-The ordered sequence of atomic work items. See [[Breaking Down Tasks]].
+The ordered sequence of atomic work items. See [[Business/Documentation & Research/Spec driven development/Guides/Breaking Down Tasks]].
 
 Good tasks are:
 - **Atomic** — one logical change per task
@@ -109,7 +109,7 @@ If any of these fail, the spec needs more work before proceeding to implementati
 
 ## Spec Size
 
-Follow the [[Principles|smarter specs, not longer specs]] principle:
+Follow the [[Business/Documentation & Research/Spec driven development/Standard/Principles|smarter specs, not longer specs]] principle:
 
 - A typical feature spec is **2-4 pages** across all documents combined
 - If your requirements document exceeds 2 pages, consider splitting the feature into smaller specs

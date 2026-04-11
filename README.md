@@ -78,37 +78,37 @@ If your AI tool changes tomorrow, your specs remain valuable — as documentatio
 
 ### 📐 [The Standard](Standard/)
 
-- [Principles](Standard/Principles.md) — The 10 core beliefs behind SDD
-- [Workflow](Standard/Workflow.md) — The 6-phase lifecycle in detail
-- [Roles](Standard/Roles.md) — PO/PM, Developer, and AI Agent responsibilities
-- [Anatomy of a Spec](Standard/Anatomy%20of%20a%20Spec.md) — What makes a good spec
-- [Boundaries](Standard/Boundaries.md) — The Always/Ask/Never framework for AI agents
-- [Glossary](Standard/Glossary.md) — Precise definitions of SDD terms
-- [Tool Agnosticism](Standard/Tool%20Agnosticism.md) — How SDD maps to Claude, Cursor, Copilot, Kiro, and more
-- [Adoption Guide](Standard/Adoption%20Guide.md) — Incremental adoption path
+- [Principles](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Principles.md) — The 10 core beliefs behind SDD
+- [Workflow](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Workflow.md) — The 6-phase lifecycle in detail
+- [Roles](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Roles.md) — PO/PM, Developer, and AI Agent responsibilities
+- [Anatomy of a Spec](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Anatomy%20of%20a%20Spec.md) — What makes a good spec
+- [Boundaries](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Boundaries.md) — The Always/Ask/Never framework for AI agents
+- [Glossary](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Glossary.md) — Precise definitions of SDD terms
+- [Tool Agnosticism](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Tool%20Agnosticism.md) — How SDD maps to Claude, Cursor, Copilot, Kiro, and more
+- [Adoption Guide](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Adoption%20Guide.md) — Incremental adoption path
 
 ### 📋 [Templates](Templates/)
 
 Copy these into your project:
 
-- [Product Brief Template](Templates/Product%20Brief%20Template.md) — PO/PM starting point
-- [Steering Template](Templates/Steering%20Template.md) — Project constitution (`CLAUDE.md` / `.cursorrules`)
-- [Feature Spec Template](Templates/Feature%20Spec%20Template.md) — New feature specifications
-- [Bugfix Spec Template](Templates/Bugfix%20Spec%20Template.md) — Bug investigation and fix specs
-- [Standards Template](Templates/Standards%20Template.md) — Project-wide coding conventions
-- [Task List Template](Templates/Task%20List%20Template.md) — Implementation task breakdowns
+- [Product Brief Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Product%20Brief%20Template.md) — PO/PM starting point
+- [Steering Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Steering%20Template.md) — Project constitution (`CLAUDE.md` / `.cursorrules`)
+- [Feature Spec Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Feature%20Spec%20Template.md) — New feature specifications
+- [Bugfix Spec Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Bugfix%20Spec%20Template.md) — Bug investigation and fix specs
+- [Standards Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Standards%20Template.md) — Project-wide coding conventions
+- [Task List Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Task%20List%20Template.md) — Implementation task breakdowns
 
 ### 📖 [Guides](Guides/)
 
-- [Getting Started](Guides/Getting%20Started.md) — 5-minute minimal setup
-- [PO Guide to SDD](Guides/PO%20Guide%20to%20SDD.md) — How Product Owners write specs for dev teams and AI
-- [From Story to Spec](Guides/From%20Story%20to%20Spec.md) — Translating product vision into SDD artifacts
-- [Writing Requirements](Guides/Writing%20Requirements.md) — Requirements notation guide (user stories, EARS, Given/When/Then)
-- [Writing Design Docs](Guides/Writing%20Design%20Docs.md) — Design document guide
-- [Breaking Down Tasks](Guides/Breaking%20Down%20Tasks.md) — Task decomposition guide
-- [Spec Review Checklist](Guides/Spec%20Review%20Checklist.md) — Validation checklist
-- [Greenfield Setup](Guides/Greenfield%20Setup.md) — Starting a new project with SDD
-- [Brownfield Adoption](Guides/Brownfield%20Adoption.md) — Adopting SDD in an existing codebase
+- [Getting Started](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Getting%20Started.md) — 5-minute minimal setup
+- [PO Guide to SDD](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/PO%20Guide%20to%20SDD.md) — How Product Owners write specs for dev teams and AI
+- [From Story to Spec](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/From%20Story%20to%20Spec.md) — Translating product vision into SDD artifacts
+- [Writing Requirements](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Writing%20Requirements.md) — Requirements notation guide (user stories, EARS, Given/When/Then)
+- [Writing Design Docs](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Writing%20Design%20Docs.md) — Design document guide
+- [Breaking Down Tasks](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Breaking%20Down%20Tasks.md) — Task decomposition guide
+- [Spec Review Checklist](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Spec%20Review%20Checklist.md) — Validation checklist
+- [Greenfield Setup](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Greenfield%20Setup.md) — Starting a new project with SDD
+- [Brownfield Adoption](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/Brownfield%20Adoption.md) — Adopting SDD in an existing codebase
 
 ### 🗂️ [Examples](Examples/)
 
@@ -124,17 +124,17 @@ Fully worked examples using the exact SDD folder structure:
 
 **If you're a developer or team lead:**
 
-1. Copy [Steering Template](Templates/Steering%20Template.md) → `CLAUDE.md` at your project root
+1. Copy [Steering Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Steering%20Template.md) → `CLAUDE.md` at your project root
 2. Fill in your tech stack, conventions, and boundaries
-3. When starting a feature, copy [Feature Spec Template](Templates/Feature%20Spec%20Template.md) → `specs/[feature-name]/`
+3. When starting a feature, copy [Feature Spec Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Feature%20Spec%20Template.md) → `specs/[feature-name]/`
 
 **If you're a Product Owner:**
 
-Start with the [PO Guide to SDD](Guides/PO%20Guide%20to%20SDD.md) and the [Product Brief Template](Templates/Product%20Brief%20Template.md).
+Start with the [PO Guide to SDD](Business/Documentation%20&%20Research/Spec%20driven%20development/Guides/PO%20Guide%20to%20SDD.md) and the [Product Brief Template](Business/Documentation%20&%20Research/Spec%20driven%20development/Templates/Product%20Brief%20Template.md).
 
 **If you want to adopt incrementally:**
 
-Read the [Adoption Guide](Standard/Adoption%20Guide.md). You don't need to adopt the full standard on day one.
+Read the [Adoption Guide](Business/Documentation%20&%20Research/Spec%20driven%20development/Standard/Adoption%20Guide.md). You don't need to adopt the full standard on day one.
 
 ---
 

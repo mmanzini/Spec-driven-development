@@ -23,7 +23,7 @@ Two entry points are supported:
 **Input:** A product idea, user problem, or business need
 **Output:** `brief.md`
 
-The PO writes a [[Product Brief Template|Product Brief]] capturing:
+The PO writes a [[Business/Documentation & Research/Spec driven development/Templates/Product Brief Template|Product Brief]] capturing:
 - The problem being solved and who it affects
 - What success looks like (measurable where possible)
 - What's in scope and what's explicitly out
@@ -43,7 +43,7 @@ The brief is intentionally non-technical. It captures *intent*, not implementati
 
 Transform the brief into structured requirements with acceptance criteria. The PO writes the *what*; the Developer validates that each requirement is technically feasible.
 
-Requirements can use any supported notation — see [[Writing Requirements]]:
+Requirements can use any supported notation — see [[Business/Documentation & Research/Spec driven development/Guides/Writing Requirements]]:
 - **User stories** for capturing user intent and empathy
 - **EARS notation** for precise system behavior
 - **Acceptance criteria (Given/When/Then)** for testable conditions
@@ -86,7 +86,7 @@ Break the design into an ordered list of atomic implementation tasks. Each task 
 - **Sequenced by dependency** — tasks that depend on earlier work come later
 - **Clear in scope** — the task description leaves no room for interpretation
 
-The AI agent can help decompose the design into tasks, but the Developer validates the breakdown. See [[Breaking Down Tasks]].
+The AI agent can help decompose the design into tasks, but the Developer validates the breakdown. See [[Business/Documentation & Research/Spec driven development/Guides/Breaking Down Tasks]].
 
 Each task in `tasks.md` tracks status: `[ ]` not started, `[-]` in progress, `[x]` complete.
 
@@ -106,7 +106,7 @@ During implementation:
 - The spec is the primary instruction set for the AI agent
 - If the agent encounters ambiguity, it flags it rather than guessing
 - If implementation reveals a design issue, **update the spec** — don't silently diverge
-- [[Boundaries]] define what the agent must always do, must ask about, and must never do
+- [[Business/Documentation & Research/Spec driven development/Standard/Boundaries]] define what the agent must always do, must ask about, and must never do
 
 ---
 
@@ -151,7 +151,7 @@ project-root/
 **Naming conventions:**
 - Spec folders use hyphenated slugs: `user-authentication/`, `payment-processing/`
 - `specs/` is visible and version-controlled, not hidden (no `.specs/` or `.kiro/`)
-- The steering document filename is tool-specific (`CLAUDE.md`, `.cursorrules`, etc.) but follows the [[Steering Template|SDD content structure]]
+- The steering document filename is tool-specific (`CLAUDE.md`, `.cursorrules`, etc.) but follows the [[Business/Documentation & Research/Spec driven development/Templates/Steering Template|SDD content structure]]
 
 ---
 

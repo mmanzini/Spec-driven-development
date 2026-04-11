@@ -23,7 +23,7 @@ This alone is a significant upgrade over unstructured AI usage.
 ### Level 3: Full SDD with Product Briefs
 
 **Effort:** Full workflow per feature
-**What you do:** PO/PM writes Product Briefs. Full 6-phase [[Workflow]] with review gates.
+**What you do:** PO/PM writes Product Briefs. Full 6-phase [[Business/Documentation & Research/Spec driven development/Standard/Workflow]] with review gates.
 **What you get:** Clear PO/Dev/AI collaboration model. Product intent preserved through implementation.
 
 ### Level 4: Standards Library
@@ -72,7 +72,7 @@ Move to the next level when:
 ## Tips for Successful Adoption
 
 1. **Start with one person, one feature.** Don't mandate SDD across the team. Let the results speak.
-2. **Pick the right first feature.** Medium complexity, upcoming, self-contained. See [[Brownfield Adoption]].
+2. **Pick the right first feature.** Medium complexity, upcoming, self-contained. See [[Business/Documentation & Research/Spec driven development/Guides/Brownfield Adoption]].
 3. **Don't spec everything.** Quick fixes, typo corrections, and exploratory work don't need specs.
 4. **Adapt the templates.** The templates are starting points, not rigid forms. Remove sections that don't apply.
 5. **Review and iterate.** After 3-5 specs, review what worked and what was unnecessary. Adjust your approach.

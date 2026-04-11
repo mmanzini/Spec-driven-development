@@ -1,6 +1,6 @@
 # Duplicate Emails on Order Confirmation — Fix Tasks
 
-**Spec:** [[bugfix]]
+**Spec:** [[Business/Documentation & Research/Spec driven development/Examples/duplicate-order-emails/bugfix]]
 **Status:** Not started
 
 ### 1. Reproduce the bug
