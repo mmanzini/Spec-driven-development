@@ -6,7 +6,7 @@ Fully worked examples demonstrating the SDD standard in practice. Each example m
 
 ## Feature Spec Example: Notification Preferences
 
-A complete feature spec for a fictional **TaskFlow** application (see [[CLAUDE|TaskFlow steering document]]). Demonstrates the full 6-phase workflow from Product Brief through implementation tasks.
+A complete feature spec for a fictional **TaskFlow** application (see [[Resources/frameworks/Spec-driven-development/Examples/taskflow-steering/CLAUDE|TaskFlow steering document]]). Demonstrates the full 6-phase workflow from Product Brief through implementation tasks.
 
 **Folder structure:**
 ```
